@@ -1,0 +1,3 @@
+Master branch elso commit
+
+Beolvasom a jelszo.txt-bol az adatbazis nevet es jelszavat, amely alapjan csatlakozom a szoftverbol a rendszer adatbazisahoz.
